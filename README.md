@@ -1,4 +1,5 @@
-Alignment to reports for lakeside
+Alignment to reports for lakeside:
+
 A chatbot is an AI powered tool that interacts with users through text or voice, helping answer questions, automate tasks, or guide people through processes underlying problems.
 
 Purpose for Gen AI chatbot
